@@ -1,0 +1,71 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+  }
+.img1{
+    background-image: url(nepal-684cyeq8t5f8csf9.jpg);
+    min-height: 100%;
+}
+.img2{
+    background-image: url(nepal-village.jpg);
+    min-height:400px;
+}
+.img3{
+    background-image: url(Chitwan-National-Park-Elephant-Safari.jpg);
+    min-height: 400px;
+}
+.img4{
+    background-image: url(Rara_lake\,_Mugu.jpg);
+    min-height: 100%;
+}
+.img1,
+.img2,
+.img3,
+.img4{
+    position: relative;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.text{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+}
+.heading{
+    background: #313534;
+    color: #fff;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.div{
+    text-align: center;
+    padding: 50px 80px;
+}
+.paragraph1{
+    color: #ddd;
+    text-align: center;
+    border-radius: 30px;
+}
+.paragraph2{
+    background-color: #282e34;
+    color: #ddd;
+    text-align: center;
+}
+.a{
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #282e34;
+
+}
